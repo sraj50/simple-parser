@@ -22,4 +22,5 @@ XML character references are changed to their original representation. For examp
 
 All HTML tags are also removed.
 
-```process-data.py``` takes the input XML file, cleans the text 
+```process-data.py``` reads input XML file, perform pre-processing to clean the body and split the file into question
+and answer based on the post ID type.
