@@ -21,3 +21,5 @@ Special characters ("&#xA", "&#xD") are replaced by single empty space.
 XML character references are changed to their original representation. For example, "&amp" to &, "&quot" to ", "&pos" to ', "&gt" to >, "&lt" to <
 
 All HTML tags are also removed.
+
+```process-data.py``` takes the input XML file, cleans the text 
