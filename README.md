@@ -12,7 +12,7 @@ Each post has four attributes
   CreationDate: creation date & time of post (yyyy-mm-ddThh:mm:ss)
   Body: content of post
 
-
+<br>
 <b>Process Data</b><br>
 The first step is to process the XML data by doing some clean up so that only the body of post is available.
 
